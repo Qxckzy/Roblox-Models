@@ -1,6 +1,6 @@
 # Blender 5.1.2
 # www.blender.org
-mtllib BASE.mtl
+mtllib BASEV2.mtl
 o FamasAccess_14074657253
 v -0.821277 0.395334 0.075585
 v -0.824463 0.398050 0.068275
